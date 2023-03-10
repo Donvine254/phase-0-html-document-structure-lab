@@ -1,6 +1,12 @@
 body {
-  background-color: #aaa;
+  background-color: #afd7e4;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+
+  color: #944b10;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
 }
 h2, h3 {
 font-family: 'Times New Roman', Times, serif;
